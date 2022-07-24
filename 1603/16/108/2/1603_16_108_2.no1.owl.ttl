@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bubanza"@fra-Latn ,
         "Bubanza (Bubanza)"@fra-Latn ;
-    wdata:q7200235 "BI001001" ;
+    wdata:Q7200235 "BI001001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -169,7 +169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kayogoro"@fra-Latn ,
         "Kayogoro (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010001" ;
+    wdata:Q7200235 "BI010001" ;
 .
 
 <urn:mdciii:1603:16:108:2:10002>
@@ -183,7 +183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kibago"@fra-Latn ,
         "Kibago (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010002" ;
+    wdata:Q7200235 "BI010002" ;
 .
 
 <urn:mdciii:1603:16:108:2:10003>
@@ -197,7 +197,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mabanda"@fra-Latn ,
         "Mabanda (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010003" ;
+    wdata:Q7200235 "BI010003" ;
 .
 
 <urn:mdciii:1603:16:108:2:10004>
@@ -211,7 +211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Makamba"@fra-Latn ,
         "Makamba (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010004" ;
+    wdata:Q7200235 "BI010004" ;
 .
 
 <urn:mdciii:1603:16:108:2:10005>
@@ -225,7 +225,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyanza-Lac"@fra-Latn ,
         "Nyanza-Lac (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010005" ;
+    wdata:Q7200235 "BI010005" ;
 .
 
 <urn:mdciii:1603:16:108:2:10006>
@@ -239,7 +239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vugizo"@fra-Latn ,
         "Vugizo (Makamba)"@fra-Latn ;
-    wdata:q7200235 "BI010006" ;
+    wdata:Q7200235 "BI010006" ;
 .
 
 <urn:mdciii:1603:16:108:2:1002>
@@ -253,7 +253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gihanga"@fra-Latn ,
         "Gihanga (Bubanza)"@fra-Latn ;
-    wdata:q7200235 "BI001002" ;
+    wdata:Q7200235 "BI001002" ;
 .
 
 <urn:mdciii:1603:16:108:2:1003>
@@ -267,7 +267,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mpanda"@fra-Latn ,
         "Mpanda (Bubanza)"@fra-Latn ;
-    wdata:q7200235 "BI001003" ;
+    wdata:Q7200235 "BI001003" ;
 .
 
 <urn:mdciii:1603:16:108:2:1004>
@@ -281,7 +281,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Musigati"@fra-Latn ,
         "Musigati (Bubanza)"@fra-Latn ;
-    wdata:q7200235 "BI001004" ;
+    wdata:Q7200235 "BI001004" ;
 .
 
 <urn:mdciii:1603:16:108:2:1005>
@@ -295,7 +295,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rugazi"@fra-Latn ,
         "Rugazi (Bubanza)"@fra-Latn ;
-    wdata:q7200235 "BI001005" ;
+    wdata:Q7200235 "BI001005" ;
 .
 
 <urn:mdciii:1603:16:108:2:11001>
@@ -309,7 +309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bukeye"@fra-Latn ,
         "Bukeye (Muramvya)"@fra-Latn ;
-    wdata:q7200235 "BI011001" ;
+    wdata:Q7200235 "BI011001" ;
 .
 
 <urn:mdciii:1603:16:108:2:11002>
@@ -323,7 +323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kiganda"@fra-Latn ,
         "Kiganda (Muramvya)"@fra-Latn ;
-    wdata:q7200235 "BI011002" ;
+    wdata:Q7200235 "BI011002" ;
 .
 
 <urn:mdciii:1603:16:108:2:11003>
@@ -337,7 +337,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mbuye"@fra-Latn ,
         "Mbuye (Muramvya)"@fra-Latn ;
-    wdata:q7200235 "BI011003" ;
+    wdata:Q7200235 "BI011003" ;
 .
 
 <urn:mdciii:1603:16:108:2:11004>
@@ -351,7 +351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muramvya"@fra-Latn ,
         "Muramvya (Muramvya)"@fra-Latn ;
-    wdata:q7200235 "BI011004" ;
+    wdata:Q7200235 "BI011004" ;
 .
 
 <urn:mdciii:1603:16:108:2:11005>
@@ -365,7 +365,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rutegama"@fra-Latn ,
         "Rutegama (Muramvya)"@fra-Latn ;
-    wdata:q7200235 "BI011005" ;
+    wdata:Q7200235 "BI011005" ;
 .
 
 <urn:mdciii:1603:16:108:2:12001>
@@ -379,7 +379,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buhinyuza"@fra-Latn ,
         "Buhinyuza (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012001" ;
+    wdata:Q7200235 "BI012001" ;
 .
 
 <urn:mdciii:1603:16:108:2:12002>
@@ -393,7 +393,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Butihinda"@fra-Latn ,
         "Butihinda (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012002" ;
+    wdata:Q7200235 "BI012002" ;
 .
 
 <urn:mdciii:1603:16:108:2:12003>
@@ -407,7 +407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gashoho"@fra-Latn ,
         "Gashoho (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012003" ;
+    wdata:Q7200235 "BI012003" ;
 .
 
 <urn:mdciii:1603:16:108:2:12004>
@@ -421,7 +421,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gasorwe"@fra-Latn ,
         "Gasorwe (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012004" ;
+    wdata:Q7200235 "BI012004" ;
 .
 
 <urn:mdciii:1603:16:108:2:12005>
@@ -435,7 +435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giteranyi"@fra-Latn ,
         "Giteranyi (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012005" ;
+    wdata:Q7200235 "BI012005" ;
 .
 
 <urn:mdciii:1603:16:108:2:12006>
@@ -449,7 +449,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muyinga"@fra-Latn ,
         "Muyinga (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012006" ;
+    wdata:Q7200235 "BI012006" ;
 .
 
 <urn:mdciii:1603:16:108:2:12007>
@@ -463,7 +463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mwakiro"@fra-Latn ,
         "Mwakiro (Muyinga)"@fra-Latn ;
-    wdata:q7200235 "BI012007" ;
+    wdata:Q7200235 "BI012007" ;
 .
 
 <urn:mdciii:1603:16:108:2:13001>
@@ -477,7 +477,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bisoro"@fra-Latn ,
         "Bisoro (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013001" ;
+    wdata:Q7200235 "BI013001" ;
 .
 
 <urn:mdciii:1603:16:108:2:13002>
@@ -491,7 +491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gisozi"@fra-Latn ,
         "Gisozi (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013002" ;
+    wdata:Q7200235 "BI013002" ;
 .
 
 <urn:mdciii:1603:16:108:2:13003>
@@ -505,7 +505,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kayokwe"@fra-Latn ,
         "Kayokwe (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013003" ;
+    wdata:Q7200235 "BI013003" ;
 .
 
 <urn:mdciii:1603:16:108:2:13004>
@@ -519,7 +519,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ndava"@fra-Latn ,
         "Ndava (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013004" ;
+    wdata:Q7200235 "BI013004" ;
 .
 
 <urn:mdciii:1603:16:108:2:13005>
@@ -533,7 +533,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyabihanga"@fra-Latn ,
         "Nyabihanga (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013005" ;
+    wdata:Q7200235 "BI013005" ;
 .
 
 <urn:mdciii:1603:16:108:2:13006>
@@ -547,7 +547,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rusaka"@fra-Latn ,
         "Rusaka (Mwaro)"@fra-Latn ;
-    wdata:q7200235 "BI013006" ;
+    wdata:Q7200235 "BI013006" ;
 .
 
 <urn:mdciii:1603:16:108:2:14001>
@@ -561,7 +561,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Busiga"@fra-Latn ,
         "Busiga (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014001" ;
+    wdata:Q7200235 "BI014001" ;
 .
 
 <urn:mdciii:1603:16:108:2:14002>
@@ -575,7 +575,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gashikanwa"@fra-Latn ,
         "Gashikanwa (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014002" ;
+    wdata:Q7200235 "BI014002" ;
 .
 
 <urn:mdciii:1603:16:108:2:14003>
@@ -589,7 +589,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kiremba"@fra-Latn ,
         "Kiremba (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014003" ;
+    wdata:Q7200235 "BI014003" ;
 .
 
 <urn:mdciii:1603:16:108:2:14004>
@@ -603,7 +603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Marangara"@fra-Latn ,
         "Marangara (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014004" ;
+    wdata:Q7200235 "BI014004" ;
 .
 
 <urn:mdciii:1603:16:108:2:14005>
@@ -617,7 +617,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mwumba"@fra-Latn ,
         "Mwumba (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014005" ;
+    wdata:Q7200235 "BI014005" ;
 .
 
 <urn:mdciii:1603:16:108:2:14006>
@@ -631,7 +631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ngozi"@fra-Latn ,
         "Ngozi (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014006" ;
+    wdata:Q7200235 "BI014006" ;
 .
 
 <urn:mdciii:1603:16:108:2:14007>
@@ -645,7 +645,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyamurenza"@fra-Latn ,
         "Nyamurenza (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014007" ;
+    wdata:Q7200235 "BI014007" ;
 .
 
 <urn:mdciii:1603:16:108:2:14008>
@@ -659,7 +659,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ruhororo"@fra-Latn ,
         "Ruhororo (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014008" ;
+    wdata:Q7200235 "BI014008" ;
 .
 
 <urn:mdciii:1603:16:108:2:14009>
@@ -673,7 +673,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Tangara"@fra-Latn ,
         "Tangara (Ngozi)"@fra-Latn ;
-    wdata:q7200235 "BI014009" ;
+    wdata:Q7200235 "BI014009" ;
 .
 
 <urn:mdciii:1603:16:108:2:15001>
@@ -687,7 +687,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bukemba"@fra-Latn ,
         "Bukemba (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015001" ;
+    wdata:Q7200235 "BI015001" ;
 .
 
 <urn:mdciii:1603:16:108:2:15002>
@@ -701,7 +701,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giharo"@fra-Latn ,
         "Giharo (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015002" ;
+    wdata:Q7200235 "BI015002" ;
 .
 
 <urn:mdciii:1603:16:108:2:15003>
@@ -715,7 +715,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gitanga"@fra-Latn ,
         "Gitanga (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015003" ;
+    wdata:Q7200235 "BI015003" ;
 .
 
 <urn:mdciii:1603:16:108:2:15004>
@@ -729,7 +729,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mpinga-Kayove"@fra-Latn ,
         "Mpinga-Kayove (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015004" ;
+    wdata:Q7200235 "BI015004" ;
 .
 
 <urn:mdciii:1603:16:108:2:15005>
@@ -743,7 +743,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Musongati"@fra-Latn ,
         "Musongati (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015005" ;
+    wdata:Q7200235 "BI015005" ;
 .
 
 <urn:mdciii:1603:16:108:2:15006>
@@ -757,7 +757,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rutana"@fra-Latn ,
         "Rutana (Rutana)"@fra-Latn ;
-    wdata:q7200235 "BI015006" ;
+    wdata:Q7200235 "BI015006" ;
 .
 
 <urn:mdciii:1603:16:108:2:16001>
@@ -771,7 +771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Butaganzwa1"@fra-Latn ,
         "Butaganzwa1 (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016001" ;
+    wdata:Q7200235 "BI016001" ;
 .
 
 <urn:mdciii:1603:16:108:2:16002>
@@ -785,7 +785,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Butezi"@fra-Latn ,
         "Butezi (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016002" ;
+    wdata:Q7200235 "BI016002" ;
 .
 
 <urn:mdciii:1603:16:108:2:16003>
@@ -799,7 +799,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bweru"@fra-Latn ,
         "Bweru (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016003" ;
+    wdata:Q7200235 "BI016003" ;
 .
 
 <urn:mdciii:1603:16:108:2:16004>
@@ -813,7 +813,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gisuru"@fra-Latn ,
         "Gisuru (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016004" ;
+    wdata:Q7200235 "BI016004" ;
 .
 
 <urn:mdciii:1603:16:108:2:16005>
@@ -827,7 +827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kinyinya"@fra-Latn ,
         "Kinyinya (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016005" ;
+    wdata:Q7200235 "BI016005" ;
 .
 
 <urn:mdciii:1603:16:108:2:16006>
@@ -841,7 +841,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyabitsinda"@fra-Latn ,
         "Nyabitsinda (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016006" ;
+    wdata:Q7200235 "BI016006" ;
 .
 
 <urn:mdciii:1603:16:108:2:16007>
@@ -855,7 +855,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ruyigi"@fra-Latn ,
         "Ruyigi (Ruyigi)"@fra-Latn ;
-    wdata:q7200235 "BI016007" ;
+    wdata:Q7200235 "BI016007" ;
 .
 
 <urn:mdciii:1603:16:108:2:17014>
@@ -869,7 +869,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muha"@fra-Latn ,
         "Muha (Bujumbura Mairie)"@fra-Latn ;
-    wdata:q7200235 "BI017014" ;
+    wdata:Q7200235 "BI017014" ;
 .
 
 <urn:mdciii:1603:16:108:2:17015>
@@ -883,7 +883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mukaza"@fra-Latn ,
         "Mukaza (Bujumbura Mairie)"@fra-Latn ;
-    wdata:q7200235 "BI017015" ;
+    wdata:Q7200235 "BI017015" ;
 .
 
 <urn:mdciii:1603:16:108:2:17016>
@@ -897,7 +897,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ntahangwa"@fra-Latn ,
         "Ntahangwa (Bujumbura Mairie)"@fra-Latn ;
-    wdata:q7200235 "BI017016" ;
+    wdata:Q7200235 "BI017016" ;
 .
 
 <urn:mdciii:1603:16:108:2:18001>
@@ -911,7 +911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muhuta"@fra-Latn ,
         "Muhuta (Rumonge)"@fra-Latn ;
-    wdata:q7200235 "BI018001" ;
+    wdata:Q7200235 "BI018001" ;
 .
 
 <urn:mdciii:1603:16:108:2:18002>
@@ -925,7 +925,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugarama"@fra-Latn ,
         "Bugarama (Rumonge)"@fra-Latn ;
-    wdata:q7200235 "BI018002" ;
+    wdata:Q7200235 "BI018002" ;
 .
 
 <urn:mdciii:1603:16:108:2:18003>
@@ -939,7 +939,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Burambi"@fra-Latn ,
         "Burambi (Rumonge)"@fra-Latn ;
-    wdata:q7200235 "BI018003" ;
+    wdata:Q7200235 "BI018003" ;
 .
 
 <urn:mdciii:1603:16:108:2:18004>
@@ -953,7 +953,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buyengero"@fra-Latn ,
         "Buyengero (Rumonge)"@fra-Latn ;
-    wdata:q7200235 "BI018004" ;
+    wdata:Q7200235 "BI018004" ;
 .
 
 <urn:mdciii:1603:16:108:2:18005>
@@ -967,7 +967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rumonge"@fra-Latn ,
         "Rumonge (Rumonge)"@fra-Latn ;
-    wdata:q7200235 "BI018005" ;
+    wdata:Q7200235 "BI018005" ;
 .
 
 <urn:mdciii:1603:16:108:2:2002>
@@ -981,7 +981,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Isale"@fra-Latn ,
         "Isale (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002002" ;
+    wdata:Q7200235 "BI002002" ;
 .
 
 <urn:mdciii:1603:16:108:2:2003>
@@ -995,7 +995,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kabezi"@fra-Latn ,
         "Kabezi (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002003" ;
+    wdata:Q7200235 "BI002003" ;
 .
 
 <urn:mdciii:1603:16:108:2:2004>
@@ -1009,7 +1009,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kanyosha1"@fra-Latn ,
         "Kanyosha1 (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002004" ;
+    wdata:Q7200235 "BI002004" ;
 .
 
 <urn:mdciii:1603:16:108:2:2005>
@@ -1023,7 +1023,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mubimbi"@fra-Latn ,
         "Mubimbi (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002005" ;
+    wdata:Q7200235 "BI002005" ;
 .
 
 <urn:mdciii:1603:16:108:2:2006>
@@ -1037,7 +1037,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mugongomanga"@fra-Latn ,
         "Mugongomanga (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002006" ;
+    wdata:Q7200235 "BI002006" ;
 .
 
 <urn:mdciii:1603:16:108:2:2008>
@@ -1051,7 +1051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mukike"@fra-Latn ,
         "Mukike (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002008" ;
+    wdata:Q7200235 "BI002008" ;
 .
 
 <urn:mdciii:1603:16:108:2:2009>
@@ -1065,7 +1065,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mutambu"@fra-Latn ,
         "Mutambu (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002009" ;
+    wdata:Q7200235 "BI002009" ;
 .
 
 <urn:mdciii:1603:16:108:2:2010>
@@ -1079,7 +1079,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mutimbuzi"@fra-Latn ,
         "Mutimbuzi (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002010" ;
+    wdata:Q7200235 "BI002010" ;
 .
 
 <urn:mdciii:1603:16:108:2:2012>
@@ -1093,7 +1093,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyabiraba"@fra-Latn ,
         "Nyabiraba (Bujumbura Rural)"@fra-Latn ;
-    wdata:q7200235 "BI002012" ;
+    wdata:Q7200235 "BI002012" ;
 .
 
 <urn:mdciii:1603:16:108:2:3002>
@@ -1107,7 +1107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bururi"@fra-Latn ,
         "Bururi (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003002" ;
+    wdata:Q7200235 "BI003002" ;
 .
 
 <urn:mdciii:1603:16:108:2:3004>
@@ -1121,7 +1121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Matana"@fra-Latn ,
         "Matana (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003004" ;
+    wdata:Q7200235 "BI003004" ;
 .
 
 <urn:mdciii:1603:16:108:2:3005>
@@ -1135,7 +1135,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mugamba"@fra-Latn ,
         "Mugamba (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003005" ;
+    wdata:Q7200235 "BI003005" ;
 .
 
 <urn:mdciii:1603:16:108:2:3007>
@@ -1149,7 +1149,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rutovu"@fra-Latn ,
         "Rutovu (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003007" ;
+    wdata:Q7200235 "BI003007" ;
 .
 
 <urn:mdciii:1603:16:108:2:3008>
@@ -1163,7 +1163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Songa"@fra-Latn ,
         "Songa (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003008" ;
+    wdata:Q7200235 "BI003008" ;
 .
 
 <urn:mdciii:1603:16:108:2:3009>
@@ -1177,7 +1177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vyanda"@fra-Latn ,
         "Vyanda (Bururi)"@fra-Latn ;
-    wdata:q7200235 "BI003009" ;
+    wdata:Q7200235 "BI003009" ;
 .
 
 <urn:mdciii:1603:16:108:2:4001>
@@ -1191,7 +1191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cankuzo"@fra-Latn ,
         "Cankuzo (Cankuzo)"@fra-Latn ;
-    wdata:q7200235 "BI004001" ;
+    wdata:Q7200235 "BI004001" ;
 .
 
 <urn:mdciii:1603:16:108:2:4002>
@@ -1205,7 +1205,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cendajuru"@fra-Latn ,
         "Cendajuru (Cankuzo)"@fra-Latn ;
-    wdata:q7200235 "BI004002" ;
+    wdata:Q7200235 "BI004002" ;
 .
 
 <urn:mdciii:1603:16:108:2:4003>
@@ -1219,7 +1219,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gisagara"@fra-Latn ,
         "Gisagara (Cankuzo)"@fra-Latn ;
-    wdata:q7200235 "BI004003" ;
+    wdata:Q7200235 "BI004003" ;
 .
 
 <urn:mdciii:1603:16:108:2:4004>
@@ -1233,7 +1233,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kigamba"@fra-Latn ,
         "Kigamba (Cankuzo)"@fra-Latn ;
-    wdata:q7200235 "BI004004" ;
+    wdata:Q7200235 "BI004004" ;
 .
 
 <urn:mdciii:1603:16:108:2:4005>
@@ -1247,7 +1247,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mishiha"@fra-Latn ,
         "Mishiha (Cankuzo)"@fra-Latn ;
-    wdata:q7200235 "BI004005" ;
+    wdata:Q7200235 "BI004005" ;
 .
 
 <urn:mdciii:1603:16:108:2:5001>
@@ -1261,7 +1261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buganda"@fra-Latn ,
         "Buganda (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005001" ;
+    wdata:Q7200235 "BI005001" ;
 .
 
 <urn:mdciii:1603:16:108:2:5002>
@@ -1275,7 +1275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bukinanyana"@fra-Latn ,
         "Bukinanyana (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005002" ;
+    wdata:Q7200235 "BI005002" ;
 .
 
 <urn:mdciii:1603:16:108:2:5003>
@@ -1289,7 +1289,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mabayi"@fra-Latn ,
         "Mabayi (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005003" ;
+    wdata:Q7200235 "BI005003" ;
 .
 
 <urn:mdciii:1603:16:108:2:5004>
@@ -1303,7 +1303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mugina"@fra-Latn ,
         "Mugina (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005004" ;
+    wdata:Q7200235 "BI005004" ;
 .
 
 <urn:mdciii:1603:16:108:2:5005>
@@ -1317,7 +1317,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Murwi"@fra-Latn ,
         "Murwi (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005005" ;
+    wdata:Q7200235 "BI005005" ;
 .
 
 <urn:mdciii:1603:16:108:2:5006>
@@ -1331,7 +1331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rugombo"@fra-Latn ,
         "Rugombo (Cibitoke)"@fra-Latn ;
-    wdata:q7200235 "BI005006" ;
+    wdata:Q7200235 "BI005006" ;
 .
 
 <urn:mdciii:1603:16:108:2:6001>
@@ -1345,7 +1345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugendana"@fra-Latn ,
         "Bugendana (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006001" ;
+    wdata:Q7200235 "BI006001" ;
 .
 
 <urn:mdciii:1603:16:108:2:6002>
@@ -1359,7 +1359,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bukirasazi"@fra-Latn ,
         "Bukirasazi (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006002" ;
+    wdata:Q7200235 "BI006002" ;
 .
 
 <urn:mdciii:1603:16:108:2:6003>
@@ -1373,7 +1373,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buraza"@fra-Latn ,
         "Buraza (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006003" ;
+    wdata:Q7200235 "BI006003" ;
 .
 
 <urn:mdciii:1603:16:108:2:6004>
@@ -1387,7 +1387,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Giheta"@fra-Latn ,
         "Giheta (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006004" ;
+    wdata:Q7200235 "BI006004" ;
 .
 
 <urn:mdciii:1603:16:108:2:6005>
@@ -1401,7 +1401,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gishubi"@fra-Latn ,
         "Gishubi (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006005" ;
+    wdata:Q7200235 "BI006005" ;
 .
 
 <urn:mdciii:1603:16:108:2:6006>
@@ -1415,7 +1415,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gitega"@fra-Latn ,
         "Gitega (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006006" ;
+    wdata:Q7200235 "BI006006" ;
 .
 
 <urn:mdciii:1603:16:108:2:6007>
@@ -1429,7 +1429,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Itaba"@fra-Latn ,
         "Itaba (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006007" ;
+    wdata:Q7200235 "BI006007" ;
 .
 
 <urn:mdciii:1603:16:108:2:6008>
@@ -1443,7 +1443,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Makebuko"@fra-Latn ,
         "Makebuko (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006008" ;
+    wdata:Q7200235 "BI006008" ;
 .
 
 <urn:mdciii:1603:16:108:2:6009>
@@ -1457,7 +1457,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mutaho"@fra-Latn ,
         "Mutaho (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006009" ;
+    wdata:Q7200235 "BI006009" ;
 .
 
 <urn:mdciii:1603:16:108:2:6010>
@@ -1471,7 +1471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ryansoro"@fra-Latn ,
         "Ryansoro (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006010" ;
+    wdata:Q7200235 "BI006010" ;
 .
 
 <urn:mdciii:1603:16:108:2:6011>
@@ -1485,7 +1485,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyanrusange"@fra-Latn ,
         "Nyanrusange (Gitega)"@fra-Latn ;
-    wdata:q7200235 "BI006011" ;
+    wdata:Q7200235 "BI006011" ;
 .
 
 <urn:mdciii:1603:16:108:2:7001>
@@ -1499,7 +1499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugenyuzi"@fra-Latn ,
         "Bugenyuzi (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007001" ;
+    wdata:Q7200235 "BI007001" ;
 .
 
 <urn:mdciii:1603:16:108:2:7002>
@@ -1513,7 +1513,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Buhiga"@fra-Latn ,
         "Buhiga (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007002" ;
+    wdata:Q7200235 "BI007002" ;
 .
 
 <urn:mdciii:1603:16:108:2:7003>
@@ -1527,7 +1527,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gihogazi"@fra-Latn ,
         "Gihogazi (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007003" ;
+    wdata:Q7200235 "BI007003" ;
 .
 
 <urn:mdciii:1603:16:108:2:7004>
@@ -1541,7 +1541,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gitaramuka"@fra-Latn ,
         "Gitaramuka (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007004" ;
+    wdata:Q7200235 "BI007004" ;
 .
 
 <urn:mdciii:1603:16:108:2:7005>
@@ -1555,7 +1555,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mutumba"@fra-Latn ,
         "Mutumba (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007005" ;
+    wdata:Q7200235 "BI007005" ;
 .
 
 <urn:mdciii:1603:16:108:2:7006>
@@ -1569,7 +1569,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Nyabikere"@fra-Latn ,
         "Nyabikere (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007006" ;
+    wdata:Q7200235 "BI007006" ;
 .
 
 <urn:mdciii:1603:16:108:2:7007>
@@ -1583,7 +1583,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Shombo"@fra-Latn ,
         "Shombo (Karuzi)"@fra-Latn ;
-    wdata:q7200235 "BI007007" ;
+    wdata:Q7200235 "BI007007" ;
 .
 
 <urn:mdciii:1603:16:108:2:8001>
@@ -1597,7 +1597,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Butaganzwa"@fra-Latn ,
         "Butaganzwa (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008001" ;
+    wdata:Q7200235 "BI008001" ;
 .
 
 <urn:mdciii:1603:16:108:2:8002>
@@ -1611,7 +1611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gahombo"@fra-Latn ,
         "Gahombo (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008002" ;
+    wdata:Q7200235 "BI008002" ;
 .
 
 <urn:mdciii:1603:16:108:2:8003>
@@ -1625,7 +1625,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gatara"@fra-Latn ,
         "Gatara (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008003" ;
+    wdata:Q7200235 "BI008003" ;
 .
 
 <urn:mdciii:1603:16:108:2:8004>
@@ -1639,7 +1639,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kabarore"@fra-Latn ,
         "Kabarore (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008004" ;
+    wdata:Q7200235 "BI008004" ;
 .
 
 <urn:mdciii:1603:16:108:2:8005>
@@ -1653,7 +1653,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kayanza"@fra-Latn ,
         "Kayanza (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008005" ;
+    wdata:Q7200235 "BI008005" ;
 .
 
 <urn:mdciii:1603:16:108:2:8006>
@@ -1667,7 +1667,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Matongo"@fra-Latn ,
         "Matongo (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008006" ;
+    wdata:Q7200235 "BI008006" ;
 .
 
 <urn:mdciii:1603:16:108:2:8007>
@@ -1681,7 +1681,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muhanga"@fra-Latn ,
         "Muhanga (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008007" ;
+    wdata:Q7200235 "BI008007" ;
 .
 
 <urn:mdciii:1603:16:108:2:8008>
@@ -1695,7 +1695,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muruta"@fra-Latn ,
         "Muruta (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008008" ;
+    wdata:Q7200235 "BI008008" ;
 .
 
 <urn:mdciii:1603:16:108:2:8009>
@@ -1709,7 +1709,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Rango"@fra-Latn ,
         "Rango (Kayanza)"@fra-Latn ;
-    wdata:q7200235 "BI008009" ;
+    wdata:Q7200235 "BI008009" ;
 .
 
 <urn:mdciii:1603:16:108:2:9001>
@@ -1723,7 +1723,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bugabira"@fra-Latn ,
         "Bugabira (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009001" ;
+    wdata:Q7200235 "BI009001" ;
 .
 
 <urn:mdciii:1603:16:108:2:9002>
@@ -1737,7 +1737,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Busoni"@fra-Latn ,
         "Busoni (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009002" ;
+    wdata:Q7200235 "BI009002" ;
 .
 
 <urn:mdciii:1603:16:108:2:9003>
@@ -1751,7 +1751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bwambarangwe"@fra-Latn ,
         "Bwambarangwe (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009003" ;
+    wdata:Q7200235 "BI009003" ;
 .
 
 <urn:mdciii:1603:16:108:2:9004>
@@ -1765,7 +1765,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Gitobe"@fra-Latn ,
         "Gitobe (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009004" ;
+    wdata:Q7200235 "BI009004" ;
 .
 
 <urn:mdciii:1603:16:108:2:9005>
@@ -1779,7 +1779,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kirundo"@fra-Latn ,
         "Kirundo (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009005" ;
+    wdata:Q7200235 "BI009005" ;
 .
 
 <urn:mdciii:1603:16:108:2:9006>
@@ -1793,7 +1793,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ntega"@fra-Latn ,
         "Ntega (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009006" ;
+    wdata:Q7200235 "BI009006" ;
 .
 
 <urn:mdciii:1603:16:108:2:9007>
@@ -1807,6 +1807,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vumbi"@fra-Latn ,
         "Vumbi (Kirundo)"@fra-Latn ;
-    wdata:q7200235 "BI009007" ;
+    wdata:Q7200235 "BI009007" ;
 .
 
